@@ -1,0 +1,5 @@
+<?php
+/**
+ * Zimoli Wordpress Plugin
+ */
+
